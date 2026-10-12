@@ -62,7 +62,8 @@ int main() {
 
     return 0;
 }
-output:
+
+//output:
 Enter the number of items: 5
 Enter the maximum capacity of the knapsack: 8
 
